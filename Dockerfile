@@ -21,6 +21,7 @@ RUN echo "deb http://cloud.r-project.org/bin/linux/debian buster-cran40/" >> /et
       python-setuptools \
       sudo \
       wget \
+      libboost-dev \
       libxml2-dev \
       libcairo2-dev \
       libsqlite-dev \
